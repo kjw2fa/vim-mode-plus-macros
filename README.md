@@ -24,6 +24,7 @@ Make sure you also have vim-mode-plus installed, this package requires it.
 - [x] indicate macro recording state to user
 - [x] add searching with '/'
 - [x] allow prefixing with number to replay
+- [ ] add undoing the entire macro in one undo
 - [ ] add searching with 'f', 'F', 't', 'T'
 - [ ] macros can be saved to (and recalled from) the 26 letters (e.g. `qa` and `@a`)
 - [ ] macros can be named and saved (maybe use a fuzzy finder?)
