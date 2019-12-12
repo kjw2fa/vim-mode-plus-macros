@@ -16,6 +16,8 @@ Make sure you also have vim-mode-plus installed, this package requires it.
 
 `@` to apply the macro
 
+`[num]@` to apply the macro [num] times ex. `12@`
+
 ## Roadmap
 
 - [x] a macro can be recorded
